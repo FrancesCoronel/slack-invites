@@ -1,0 +1,10 @@
+{
+  "appId": "va-acm",
+  "apiKey": "20b67bfa955a5183c199141d8d48f5e66b40091b7f429a8ce8d341a55fba0ef0",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
