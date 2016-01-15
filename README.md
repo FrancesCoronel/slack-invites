@@ -12,5 +12,6 @@
 
 ### Serving ACM student chapters from the VA since November 2015.
 
-> The full tutorial can be found [here]((https://blog.stamplay.com/launch-your-community-with-a-fully-automated-slack-signup-page/)
+> The full tutorial can be found [here](https://blog.stamplay.com/launch-your-community-with-a-fully-automated-slack-signup-page/)
+>
 > November 2015 © VA ACM | Layout Credits: HTML5 UP
