@@ -15,3 +15,17 @@
 > The full tutorial can be found [here](https://blog.stamplay.com/launch-your-community-with-a-fully-automated-slack-signup-page/)
 >
 > November 2015 © VA ACM | Layout Credits: HTML5 UP
+
+---
+
+## Getting Started
+
+```bash
+$ npm i -g stamplay-cli
+$ cd path/to/repo
+$ stamplay init
+$ stamplay start
+$ stamplay deploy
+```
+
+More info: https://stamplay.com/docs/hosting/command-line
